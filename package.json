@@ -1,0 +1,23 @@
+{
+  "name": "todo-api-tutorial",
+  "version": "1.0.0",
+  "description": "testing things out",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frogfrequency/todo-api-tutorial.git"
+  },
+  "author": "froggie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frogfrequency/todo-api-tutorial/issues"
+  },
+  "homepage": "https://github.com/frogfrequency/todo-api-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
